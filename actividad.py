@@ -16,3 +16,5 @@ if numero > 10:
     print(10)
 else:
     print("Fin del programa")
+
+crear un programa que muestre los numeros del 1 al 10000, usando el ciclo for
